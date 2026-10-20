@@ -1,0 +1,24 @@
+{
+  "classification_threshold": 0.45,
+  "best_params": {
+    "colsample_bytree": 0.6,
+    "learning_rate": 0.1,
+    "max_depth": 7,
+    "n_estimators": 200,
+    "reg_lambda": 1,
+    "subsample": 0.8
+  },
+  "metrics": {
+    "train_accuracy": 0.9936,
+    "train_precision": 0.9684,
+    "train_recall": 1.0,
+    "train_f1": 0.9839,
+    "train_roc_auc": 1.0,
+    "test_accuracy": 0.9072,
+    "test_precision": 0.774,
+    "test_recall": 0.7386,
+    "test_f1": 0.7559,
+    "test_roc_auc": 0.9216
+  },
+  "mlflow_run_id": "98857136eb584491b22008cc579bafe5"
+}
