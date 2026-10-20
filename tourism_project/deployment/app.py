@@ -32,7 +32,7 @@ def load_model():
 st.set_page_config(page_title="Wellness Package Predictor", layout="wide")
 st.title("Wellness Tourism Package - Purchase Prediction")
 st.write(
-    "Enter the customer's details and the sales-interaction data to predict whether "
+    "Enter the customer's details to predict whether "
     "they are likely to purchase the **Wellness Tourism Package** before the sales team contacts them."
 )
 
